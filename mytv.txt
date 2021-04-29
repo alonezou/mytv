@@ -89,7 +89,8 @@ CCTV世界地理,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/sjdl/sjd
 欢笑剧场,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
 动漫秀场,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
 新视觉台,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-以下频道需科学上网,#genre#
+以下频道需,#genre#
+科学上网,#genre#
 台湾/Taiwan,#genre#
 爱尔达影剧台,tvbus://5PiEXTiszZht1CyoDx3ix3Ss9oa3hcVKpFRUu6tWQug3ctfERDVPd8J8YxfCx
 爱尔达影剧台（备）,p2p://0198.02686.cc:16871/5f2e4f610009a2011d5f42ab61370430.ts
